@@ -27,7 +27,7 @@ I am  passionate about making error free websites with 100% accuracy and client 
  </p>
 <p align="right">
 
-![Profile views](https://gpvc.arturio.dev/najrul04)
+![Profile views](https://github.com/ShurmiNaz/ShurmiNaz/blob/main/Egu2.gif)
 
 </p>
 
