@@ -5,7 +5,7 @@
 <!-- Name & others -->
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=50&duration=3000&pause=400&color=5073D1&vCenter=true&width=435&lines=Hello+;I+am+Shurmi;Front+End+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=50&duration=3000&pause=400&color=5073D1&vCenter=true&width=435&lines=welcome+to+my+ProFile+;I+am+Shurmi;Front+End+Developer" alt="Typing SVG" /></a>
 </p>
 
 <!-- About -->
