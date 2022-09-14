@@ -92,5 +92,16 @@ I am  passionate about making error free websites with 100% accuracy and client 
 
 <details>
   <summary><b><g-emoji class="g-emoji" alias="gear" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2699.png">🔽</g-emoji> &nbsp; More Stats</b></summary> 
+  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/ShurmiNaz)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/ShurmiNaz)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/ShurmiNaz)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/ShurmiNaz&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/ShurmiNaz)  
+
+![Profile views](https://gpvc.arturio.dev/https://github.com/ShurmiNaz)
   
   <div align="left" 
