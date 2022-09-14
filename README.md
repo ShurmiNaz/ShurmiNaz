@@ -12,15 +12,14 @@
 
 <p>
 
-An ambitious, enthusiastic web developer is competent in JavaScript, Node JS, Express JS. Pixel perfect Responsive design using HTML, CSS, JavaScript with the help of its libraries like REACT JS, Bootstrap or Tailwind, or Material UI.
-For server-side Firebase, Node JS, Express JS, and Mongo DB for the database.
+I am  passionate about making error free websites with 100% accuracy and client satisfaction. I have a passion for learning and sharing my learnings with all. I love to solve real time problems.I always committed of quality service and maintain excellent communication with my clients. I am comfortable of working with nodejs,ReactJS, JavaScript, Bootstrap, CSS, and HTML.
 
 </p>
 
 <!-- Issues -->
 
   <p> 
-- 📫 How to reach me: nazrul2517@gmail.com
+- 📫 How to reach me: sharminjahansurmee18@gmail.com
   <br/>
 - ⚡ Fun fact: The first computer bug was actually a bug(Moth).
  </p>
