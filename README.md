@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/ShurmiNaz/ShurmiNaz/blob/main/Untitled%20design%20(15).png"> 
+<img src="https://github.com/ShurmiNaz/ShurmiNaz/blob/main/ShurmiGit.png"> 
 </p>
 
 <!-- Name & others -->
