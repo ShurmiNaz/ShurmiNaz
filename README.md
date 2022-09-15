@@ -19,7 +19,7 @@
 
 <!-- Issues -->
 
- 
+ ![Profile views](https://gpvc.arturio.dev/shurmiNaz)  
 
 - 🌱 I’m currently learning **javascript, API , react**
 - 👨‍💻 All of my projects are available at [https://care-and-cure-hospital.netlify.app/](https://care-and-cure-hospital.netlify.app/)
@@ -31,7 +31,7 @@
 <p align="right">
 
 
-     ![](https://visitcount.itsvg.in/api?id=shurmiNaz&icon=0&color=0)](https://visitcount.itsvg.in)
+    
 
 </p>
 
