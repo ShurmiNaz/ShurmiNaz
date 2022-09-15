@@ -115,7 +115,7 @@
 
 
 
-##<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=3000&color=9416A4&width=435&lines=Random+Dev+Quote%3A" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=3000&color=9416A4&width=435&lines=Random+Dev+Quote%3A" alt="Typing SVG" /></a>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
@@ -124,7 +124,7 @@
 
 
 
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=3000&color=9416A4&width=435&lines=Conribution+Graph%3A" alt="Typing SVG" /></a>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shurmiNaz)  
 
