@@ -15,12 +15,10 @@
 <!--about me -->
 
 <p>
-
      I am passionate about making error free websites with 100% accuracy and client satisfaction. I have a passion for
      learning and sharing my learnings with all. I love to solve real time problems.I always committed of quality
      service and maintain excellent communication with my clients. I am comfortable of working with nodejs,ReactJS,
      JavaScript, Bootstrap, CSS, and HTML.
-
 </p>
 <!--complete here -->
 
