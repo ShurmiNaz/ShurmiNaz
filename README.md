@@ -10,34 +10,23 @@
                alt="Typing SVG" /></a>
 </p>
 <br />
-<hr />
+
 
 <!--about me -->
 
-<p>
-     I am passionate about making error free websites with 100% accuracy and client satisfaction. I have a passion for
-     learning and sharing my learnings with all. I love to solve real time problems.I always committed of quality
-     service and maintain excellent communication with my clients. I am comfortable of working with nodejs,ReactJS,
-     JavaScript, Bootstrap, CSS, and HTML.
-</p>
+
 <!--complete here -->
 
 <!-- Issues -->
 
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shurminaz" alt="shurminaz" /></a> </p>
+ 
 
 - 🌱 I’m currently learning **javascript, API , react**
-
 - 👨‍💻 All of my projects are available at [https://care-and-cure-hospital.netlify.app/](https://care-and-cure-hospital.netlify.app/)
-
 - 📝 I regularly write articles on [https://care-and-cure-hospital.netlify.app/](https://care-and-cure-hospital.netlify.app/)
-
 - 💬 Ask me about **javascript , react**
-
 - 📫 How to reach me **sharminjahansurmee18@gmail.com**
-
 - 📄 Know about my experiences [https://drive.google.com/file/d/1mIsGlqAHpBJacIdPt36fSjqArtMrBg2p/view?usp=sharing](https://drive.google.com/file/d/1mIsGlqAHpBJacIdPt36fSjqArtMrBg2p/view?usp=sharing)
-
 - ⚡ Fun fact **Overthinking is good for mental health.**
 <p align="right">
 
