@@ -105,16 +105,17 @@
 
 <!-- 🌐### ✍️  Git Statistics-->
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shurmiNaz&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=shurmiNaz&theme=merko&hide_border=false)<br/>
- <h3>
- <!-- Most Used Language-->
-<!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=3000&color=9416A4&width=435&lines=Most+Used+Language%3A" alt="Typing SVG" /></a>
- </h3> -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shurmiNaz&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=shurmiNaz&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/> <br/> 
+![](https://github-readme-streak-stats.herokuapp.com/?user=shurmiNaz&theme=onedark&hide_border=false)<br/><br/> 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shurmiNaz&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
+
+---
+[![](https://visitcount.itsvg.in/api?id=shurmiNaz&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
 
