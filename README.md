@@ -34,7 +34,6 @@
 
   <!-- Socials -->
 
- <img align="right" margin="15px 0"  width="250" height="170" src="https://github.com/najrul04/najrul04/blob/main/machine_illustration.gif">
  
   
   <!-- 🌐### ✍️  bleh bleh bleh -->
