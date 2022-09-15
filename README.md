@@ -125,6 +125,12 @@
 
 ---
 
+<h3><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=3000&color=9416A4&width=435&lines=Socials%3A" alt="Typing SVG" /></a></h3>
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shurmiNaz)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shurmiNaz)  
+
 
 
 
