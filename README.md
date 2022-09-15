@@ -105,54 +105,15 @@
 
 <!-- 🌐### ✍️  Git Statistics-->
 
-<details>
-  <summary><b><g-emoji class="g-emoji" alias="gear" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2699.png">🔽</g-emoji> &nbsp; More Stats</b></summary> 
-  
-  <div align="left" dir="auto">
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=shurmiNaz&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=shurmiNaz&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shurmiNaz&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=shurmiNaz&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
- <h3>
- <!-- Most Used Language-->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=3000&color=9416A4&width=435&lines=Most+Used+Language%3A" alt="Typing SVG" /></a>
- </h3>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=najrul04&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-
-<!-- GitHub Stats -->
-
- <h3>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=3000&color=9416A4&width=435&lines=Stats%3A" alt="Typing SVG" /></a>
- </h3>
-
-![](https://github-readme-stats.vercel.app/api?username=najrul04&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
-<!-- Streak_Stat -->
-
- <h3>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=3000&color=9416A4&width=435&lines=Streaks%3A" alt="Typing SVG" /></a>
- </h3>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=najrul04&theme=dark&hide_border=false)
-
-<!-- 3D Chart -->
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=3000&color=9416A4&width=435&lines=3D+Chart%3A" alt="Typing SVG" /></a>
-
-![](./profile-3d-contrib/profile-night-view.svg)
-
-<!-- Snake :3 -->
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=3000&color=9416A4&width=435&lines=SNAKE!!" alt="Typing SVG" /></a>
-
-![snake gif](https://github.com/najrul04/najrul04/blob/output/github-contribution-grid-snake.svg)
-
-<!-- Random Dev Quotes -->
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=3000&color=9416A4&width=435&lines=Random+Dev+Quote%3A" alt="Typing SVG" /></a>
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-  
- </div>
- </details>
 
