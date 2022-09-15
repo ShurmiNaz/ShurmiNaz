@@ -27,17 +27,13 @@
 <!-- Issues -->
 
   <p> 
-  - 🔭 I’m currently working on [simon's concept](https://care-and-cure-hospital.netlify.app/)
-   <br/>
-
-- 🌱 I’m currently learning **javascript, API**
+- 🌱 I’m currently learning   **javascript, API**
  <br/>
-
-- 💬 Ask me about **javascript , react**
+- 💬 Ask me about   **javascript , react**
  <br/>
-- 📫 How to reach me: nazrul2517@gmail.com
+- 📫 How to reach me: **sharminjahansurmee18@gmail.com**
   <br/>
-- ⚡ Fun fact: The first computer bug was actually a bug(Moth).
+- ⚡ Fun fact: **Overthinking is good for mental health.**
  </p>
 <p align="right">
 
