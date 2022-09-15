@@ -24,15 +24,21 @@
 
 <!-- Issues -->
 
-  <p> 
-- 🌱 I’m currently learning   **javascript, API**
- <br/>
-- 💬 Ask me about   **javascript , react**
- <br/>
-- 📫 How to reach me: **sharminjahansurmee18@gmail.com**
-  <br/>
-- ⚡ Fun fact: **Overthinking is good for mental health.**
- </p>
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shurminaz" alt="shurminaz" /></a> </p>
+
+- 🌱 I’m currently learning **javascript, API , react**
+
+- 👨‍💻 All of my projects are available at [https://care-and-cure-hospital.netlify.app/](https://care-and-cure-hospital.netlify.app/)
+
+- 📝 I regularly write articles on [https://care-and-cure-hospital.netlify.app/](https://care-and-cure-hospital.netlify.app/)
+
+- 💬 Ask me about **javascript , react**
+
+- 📫 How to reach me **sharminjahansurmee18@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1mIsGlqAHpBJacIdPt36fSjqArtMrBg2p/view?usp=sharing](https://drive.google.com/file/d/1mIsGlqAHpBJacIdPt36fSjqArtMrBg2p/view?usp=sharing)
+
+- ⚡ Fun fact **Overthinking is good for mental health.**
 <p align="right">
 
 
