@@ -106,9 +106,14 @@
 <!-- 🌐### ✍️  Git Statistics-->
 
 # 📊 GitHub Stats:
+ <h3>
+ <!-- Most Used Language-->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=3000&color=9416A4&width=435&lines=Most+Used+Language%3A" alt="Typing SVG" /></a>
+ </h3>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shurmiNaz&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=shurmiNaz&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/> <br/> 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shurmiNaz&theme=onedark&hide_border=false)<br/><br/> 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shurmiNaz&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 
 <!-- Random Dev Quotes -->
