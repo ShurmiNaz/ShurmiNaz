@@ -90,13 +90,14 @@
 </td></tr></table>  <br/><br/>
 
 # 💻 Other Tech :
+<br/>
 
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)<br/>
  
 
 
 <!-- 🌐### ✍️  Git Statistics-->
-<br/><br/><br/><br/><br/>
+<br/><br/><br/>
 
 # 📊 GitHub Stats:
 <br/>
