@@ -87,7 +87,7 @@
     
 </div>
 
-</td></tr></table>  <br/><br/>
+</td></tr></table>  <br/>
 
 # 💻 Other Tech :
 <br/>
@@ -97,7 +97,7 @@
 
 
 <!-- 🌐### ✍️  Git Statistics-->
-<br/><br/><br/>
+<br/><br/>
 
 # 📊 GitHub Stats:
 <br/>
