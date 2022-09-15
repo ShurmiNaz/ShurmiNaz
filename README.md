@@ -29,10 +29,6 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1mIsGlqAHpBJacIdPt36fSjqArtMrBg2p/view?usp=sharing](https://drive.google.com/file/d/1mIsGlqAHpBJacIdPt36fSjqArtMrBg2p/view?usp=sharing)
 - ⚡ Fun fact **Overthinking is good for mental health.**
 <p align="right">
-
-
-    
-
 </p>
 
 
@@ -91,7 +87,7 @@
     
 </div>
 
-</td></tr></table>  
+</td></tr></table>  <br/><br/>
 
 # 💻 Other Tech :
 
@@ -100,7 +96,7 @@
 
 
 <!-- 🌐### ✍️  Git Statistics-->
-
+<br/><br/><br/><br/><br/>
 
 # 📊 GitHub Stats:
 <br/>
